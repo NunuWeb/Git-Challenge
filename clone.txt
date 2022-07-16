@@ -1,0 +1,3 @@
+made clone of my repository backed up in git hub
+
+now im going to add-commit-push this after edit
